@@ -16,6 +16,7 @@ A Telegram Bot made with Python to remind you with upcoming birthdays :birthday:
 <!-- ##### For example: [![Repl.it](https://img.shields.io/badge/-Replit-F26207?logo=Replit&logoColor=white&style=flat)](https://repl.it/) -->
 
 <br>
+
 ## Bot Commands (Inside Telegram)
 
 `/start`
