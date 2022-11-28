@@ -17,11 +17,12 @@ A Telegram Bot made with Python to remind you with upcoming birthdays :birthday:
 
 <br>
 ## Bot Commands (Inside Telegram)
+
 `/start`
 Start reminding you for upcoming birthdays
 
 `/upcoming`
-I'll tell you the closest upcoming birthday
+The Bot will send you the closest upcoming birthday
 
 `/thismonth`
-I'll give you a list of this month's birthdays
+The Bot will give you a list of this month's birthdays
