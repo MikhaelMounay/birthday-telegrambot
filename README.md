@@ -10,5 +10,6 @@ A Telegram Bot made with Python to remind you with upcoming birthdays :birthday:
 ##### Type your Telegram API Key Here
     API_KEY = ""
 
-#### After finishing basic setup, the script can be uploaded to a 24/7 runtime service to keep the bot running nonstop.
+
+### After finishing basic setup, the script can be uploaded to a 24/7 runtime service to keep the bot running nonstop.
 ##### For example: [**Repl.it**](https://repl.it/)
