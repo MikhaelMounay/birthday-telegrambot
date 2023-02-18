@@ -160,6 +160,8 @@ def daily_reminder():
             pinned_msg = bot.get_chat(chat_id=chat_id).pinned_message
             global birthdays
             birthdays = str(pinned_msg.text.replace("\n", ""))
-            bot.send_message(chat_id=chat_id, text="I told you I won't forget 😎")
-            bot.send_message(chat_id=chat_id, text=upcoming_birthdays("tomorrow"), parse_mode=telegram.ParseMode.MARKDOWN)
+            tomorrow_birthdays = upcoming_birthdays("tomorrow")
+            if (tomorrow_birthdays != "" and tomorrow_birthdays != None):
+                bot.send_message(chat_id=chat_id, text="I told you I won't forget 😎")
+                bot.send_message(chat_id=chat_id, text=upcoming_birthdays("tomorrow"), parse_mode=telegram.ParseMode.MARKDOWN)
     return "Reminded: {}/{}/{}".format(datetime.datetime.now().day, datetime.datetime.now().month, datetime.datetime.now().year), 200
