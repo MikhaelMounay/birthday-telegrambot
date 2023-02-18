@@ -44,6 +44,6 @@ The Bot will tell you today's birthdays (if any)
 
  - [![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square)](https://www.python.org/)
  - [![Flask](https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white&style=flat-square)](https://flask.palletsprojects.com/)
- - [![telegram-python-bot](https://img.shields.io/badge/-telegram%2Dpython%2Dbot-26A5E4?logo=Telegram&logoColor=white&style=flat-square)](https://python-telegram-bot.org/)
+ - [![telegram-python-bot](https://img.shields.io/badge/-telegram-python-bot-26A5E4?logo=Telegram&logoColor=white&style=flat-square)](https://python-telegram-bot.org/)
  - [![Requests](https://img.shields.io/badge/-Requests-000000?logoColor=white&style=flat-square)](https://requests.readthedocs.io/)
 
