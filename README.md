@@ -19,7 +19,6 @@ A Telegram Bot made with Python to remind you with upcoming birthdays :birthday:
 
 ##### Currently deployed on [![PythonAnywhere](https://img.shields.io/badge/-pythonanywhere-0075A8?logo=Python&logoColor=white&style=flat)](https://www.pythonanywhere.com/) using a *free plan*.
 
-<br>
 
 ## Bot Commands (In Telegram Chat)
 
@@ -38,7 +37,6 @@ The Bot will tell you tomorrow's birthdays (if any)
 `/thismonth`
 The Bot will tell you today's birthdays (if any)
 
-<br>
 
 ## Used Techs / Services
 
