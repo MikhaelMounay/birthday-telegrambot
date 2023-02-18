@@ -1,6 +1,6 @@
 # Birthday Telegram Bot
 A Telegram Bot made with Python to remind you with upcoming birthdays :birthday:
-#### [Currently Working Bot `@birthday_early_reminder_bot`](https://t.me/birthday_early_reminder_bot)
+#### Currently Working Bot [`@birthday_early_reminder_bot`](https://t.me/birthday_early_reminder_bot)
 
 ##### ❗Not Fully Tested (*beta*)❗
 
@@ -17,7 +17,7 @@ A Telegram Bot made with Python to remind you with upcoming birthdays :birthday:
 <!-- ##### For example: [**Repl.it**](https://repl.it/) -->
 <!-- ##### For example: [![Repl.it](https://img.shields.io/badge/-Replit-F26207?logo=Replit&logoColor=white&style=flat)](https://repl.it/) -->
 
-##### Currently deployed on [![PythonAnywhere](https://img.shields.io/badge/-pythonanywhere-0075A8?logo=Python&logoColor=white&style=flat)](https://www.pythonanywhere.com/)) using a *free plan*.
+##### Currently deployed on [![PythonAnywhere](https://img.shields.io/badge/-pythonanywhere-0075A8?logo=Python&logoColor=white&style=flat)](https://www.pythonanywhere.com/) using a *free plan*.
 
 <br>
 
@@ -43,6 +43,6 @@ The Bot will tell you today's birthdays (if any)
 
  - [![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square)](https://www.python.org/)
  - [![Flask](https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white&style=flat-square)](https://flask.palletsprojects.com/)
- - [![telegram-python-bot](https://img.shields.io/badge/-telegram-python-bot-26A5E4?logo=Telegram&logoColor=white&style=flat-square)](https://python-telegram-bot.org/)
+ - [![telegram-python-bot](https://img.shields.io/badge/-telegram%2Dpython%2Dbot-26A5E4?logo=Telegram&logoColor=white&style=flat-square)](https://python-telegram-bot.org/)
  - [![Requests](https://img.shields.io/badge/-Requests-000000?logoColor=white&style=flat-square)](https://requests.readthedocs.io/)
 
